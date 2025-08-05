@@ -16,10 +16,6 @@ const Carousel = () => {
 
   return (
     <div className="w-full max-w-6xl mx-auto my-8 px-4">
-      <h2 className="text-xl font-semibold mb-6 text-center text-white">
-        Product Recommendations
-      </h2>
-
       {/* Carousel wrapper with flex layout for proper arrow positioning */}
       <div className="flex items-center gap-4">
         {/* Left scroll button */}
