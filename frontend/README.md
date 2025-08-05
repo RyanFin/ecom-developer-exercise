@@ -9,3 +9,7 @@ In this exercise we would like you to build a recommendations carousel component
 Please fork this repository and commit your changes for review.
 
 Amend this Readme in your forked repo and use your commits to outline the component you have created and the decisions that you have made, including any information required for how to run your component. When complete please raise a Pull Request back into master branch for review.
+
+### Instructions
+- Run the app using `$make run` from the root directory or `$npm run dev` from the frontend directory.
+- Go to endpoint to view the app
